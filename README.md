@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,9 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
