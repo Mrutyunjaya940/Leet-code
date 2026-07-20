@@ -12,12 +12,14 @@
 | [0136-single-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
