@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
