@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0205-isomorphic-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
