@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0066-plus-one) |
+| [0223-rectangle-area](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0643-maximum-average-subarray-i) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
