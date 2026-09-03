@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [1539-kth-missing-positive-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/Mrutyunjaya940/Leet-code/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
