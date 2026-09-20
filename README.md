@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mrutyunjaya940/Leet-code/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
