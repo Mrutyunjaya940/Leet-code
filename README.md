@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0007-reverse-integer) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
