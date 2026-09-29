@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mrutyunjaya940/Leet-code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
